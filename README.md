@@ -14,4 +14,4 @@ The above chart shows the number of engaged users each week. Yammer defines enga
 
 You are responsible for determining what caused the dip at the end of the chart shown above and, if appropriate, recommending solutions for the problem.
 
-[Analysis Report](http://github.com)
+### [Analysis Report](https://github.com/chudzikr/SQL-Project-User-Engagement-Drop/blob/master/investigating-a-drop-in-user-engagement_chudzik.pdf)
